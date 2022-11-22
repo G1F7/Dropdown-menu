@@ -1,0 +1,39 @@
+.conv_div{
+    background: #dc34;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.conv_legend{
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+input{
+    position: relative;
+    top: 8rem;
+    left: 36rem;
+}
+#clear-btn{
+    position: relative;
+    top: 8rem;
+    left: 36rem;
+}
+#labelHeading{
+    position: relative;
+    left: 45%;
+    top: 8rem;
+}
+#randValue{
+    position: relative;
+    left: 45%;
+    top: 8rem;
+}
+#poundValue{
+    position: relative;
+    left: 45%;
+    top: 8rem;
+}
+#euroValue{
+    position: relative;
+    left: 45%;
+    top: 8rem;
+}
